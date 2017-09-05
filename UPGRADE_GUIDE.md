@@ -22,7 +22,7 @@ Flash the `Pic` with [`DefaultBoard`](https://github.com/OpenBCI/OpenBCI_32bit_L
 * Prevent users from having to upload custom code to the pic
 
 #### In depth tutorials
-* [How to get/install/upload code to Pic32 `Board`](http://docs.openbci.com/tutorials/02-Upload_Code_to_OpenBCI_Board#upload-code-to-openbci-board-32bit-upload-how-to-firmware-version-2xx-fall-2016)
+* [How to get/install/upload code to Pic32 `Board`](http://docs.openbci.com/Hardware/05-Cyton_Board_Programming_Tutorial)
 
 #### New commands
 
